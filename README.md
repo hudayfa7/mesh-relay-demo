@@ -3,6 +3,7 @@
 **A swarm of relay drones that keeps a recon asset connected past radio range, and heals, reroutes, and rotates itself home with no operator in the loop.**
 
 [![Live demo](https://img.shields.io/badge/live%20demo-play-2ea043?style=flat-square)](https://mesh-relay-edth.vercel.app/)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-watch-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/JPo0-ZK5e7U)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 
@@ -12,7 +13,7 @@ A 2D top-down browser simulation of the autonomy layer for a self-healing relay 
 
 [![Mesh relay demo](demo-poster.jpg)](https://mesh-relay-edth.vercel.app/)
 
-*▶ [Try it live](https://mesh-relay-edth.vercel.app/), or [watch the ~110s recording](demo.mp4).*
+*▶ [Try it live](https://mesh-relay-edth.vercel.app/), or [watch the ~110s walkthrough on YouTube](https://youtu.be/JPo0-ZK5e7U).*
 
 ---
 
