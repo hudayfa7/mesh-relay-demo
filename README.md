@@ -2,17 +2,17 @@
 
 **A swarm of relay drones that keeps a recon asset connected past radio range, and heals, reroutes, and rotates itself home with no operator in the loop.**
 
-[![Live demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://mesh-relay.vercel.app/)
+[![Watch the demo](https://img.shields.io/badge/watch-demo-2ea043?style=flat-square)](demo.mp4)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 A 2D top-down browser simulation of the autonomy layer for a self-healing relay mesh. Built in a weekend at EDTH London (European Defense Tech Hackathon).
 
-> **▶ [Try the live demo](https://mesh-relay.vercel.app/)** — click to place a threat, click a drone to kill it, drop a no-go zone, and watch the mesh react. Or hit **Run demo scenario** for the hands-free arc.
+> **▶ [Watch the demo](demo.mp4)** — the swarm forms a relay chain, heals when drones are killed, routes around a no-go zone, and rotates low drones home. An interactive live version is coming soon.
 
 [![Mesh relay demo](demo-poster.jpg)](demo.mp4)
 
-*▶ [Watch the full ~110s demo](demo.mp4), or [try it live](https://mesh-relay.vercel.app/) yourself.*
+*▶ [Watch the full ~110s demo](demo.mp4). An interactive live version is coming soon.*
 
 ---
 
@@ -66,6 +66,6 @@ Because the renderer reads from a single state source, swapping simulated positi
 
 ## Source
 
-The source is kept private. This page and the [live demo](https://mesh-relay.vercel.app/) are the public showcase. Reach out if you would like a walkthrough.
+The source is kept private. This page and the [demo video](demo.mp4) are the public showcase. Reach out if you would like a walkthrough.
 
 Built with TypeScript, Vite, and [Claude Code](https://claude.com/claude-code).
